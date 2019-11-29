@@ -9,8 +9,8 @@
     <ProjectGuid>{78A9D9AF-E31A-42E8-9E59-D433F2E4CCAA}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>HelloMonoGame</RootNamespace>
-    <AssemblyName>HelloMonoGame</AssemblyName>
+    <RootNamespace>MonoGame</RootNamespace>
+    <AssemblyName>MonoGame</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <MonoGamePlatform>Windows</MonoGamePlatform>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
@@ -46,6 +46,11 @@
     <Compile Include="Game1.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TileMapModule\TileMapStructures\Tile.cs" />
+    <Compile Include="TileMapModule\TileMapStructures\TileLayer.cs" />
+    <Compile Include="TileMapModule\TileMapStructures\TileMap.cs" />
+    <Compile Include="TileMapModule\TileMapLoader\TMXMapLoader.cs" />
+    <Compile Include="TileMapModule\TileMapStructures\TileSet.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="MonoGame.Framework, Version=3.7.1.189, Culture=neutral, processorArchitecture=MSIL">
@@ -56,6 +61,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Icon.ico" />
+    <Content Include="Readme.txt" />
   </ItemGroup>
   <ItemGroup>
     <MonoGameContentReference Include="Content\Content.mgcb" />

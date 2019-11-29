@@ -1,10 +1,10 @@
 C:\Users\MASTER\Source\Repos\SteelHailstorm\MonoGame\bin\Windows\x86\Debug\Content\Arial.xnb
-C:\Users\MASTER\Source\Repos\SteelHailstorm\MonoGame\bin\Windows\x86\Debug\HelloMonoGame.exe
-C:\Users\MASTER\Source\Repos\SteelHailstorm\MonoGame\bin\Windows\x86\Debug\HelloMonoGame.pdb
 C:\Users\MASTER\Source\Repos\SteelHailstorm\MonoGame\bin\Windows\x86\Debug\MonoGame.Framework.dll
 C:\Users\MASTER\Source\Repos\SteelHailstorm\MonoGame\bin\Windows\x86\Debug\MonoGame.Framework.xml
 C:\Users\MASTER\Source\Repos\SteelHailstorm\MonoGame\obj\x86\Debug\MonoGame.csprojAssemblyReference.cache
 C:\Users\MASTER\Source\Repos\SteelHailstorm\MonoGame\obj\x86\Debug\MonoGame.csproj.CoreCompileInputs.cache
 C:\Users\MASTER\Source\Repos\SteelHailstorm\MonoGame\obj\x86\Debug\MonoGame.csproj.CopyComplete
-C:\Users\MASTER\Source\Repos\SteelHailstorm\MonoGame\obj\x86\Debug\HelloMonoGame.exe
-C:\Users\MASTER\Source\Repos\SteelHailstorm\MonoGame\obj\x86\Debug\HelloMonoGame.pdb
+C:\Users\MASTER\Source\Repos\SteelHailstorm\MonoGame\bin\Windows\x86\Debug\MonoGame.exe
+C:\Users\MASTER\Source\Repos\SteelHailstorm\MonoGame\bin\Windows\x86\Debug\MonoGame.pdb
+C:\Users\MASTER\Source\Repos\SteelHailstorm\MonoGame\obj\x86\Debug\MonoGame.exe
+C:\Users\MASTER\Source\Repos\SteelHailstorm\MonoGame\obj\x86\Debug\MonoGame.pdb
