@@ -25,3 +25,4 @@ C:\Users\DELL\source\repos\SteelHailstorm\MonoGame\bin\Windows\x86\Debug\SharpDX
 C:\Users\DELL\source\repos\SteelHailstorm\MonoGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
 C:\Users\DELL\source\repos\SteelHailstorm\MonoGame\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
 C:\Users\DELL\source\repos\SteelHailstorm\MonoGame\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\DELL\source\repos\SteelHailstorm\MonoGame\bin\Windows\x86\Debug\TiledNet.dll

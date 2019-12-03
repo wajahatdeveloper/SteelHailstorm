@@ -9,20 +9,11 @@ namespace HelloMonoGame.TileMapModule
 {
 	public class TileMap
 	{
-		public string version;
-		public int orientation;
-		public int renderOrder;
-		public int widthInTiles;
-		public int heightInTiles;
-		public int tileWidthPixels;
-		public int tileHeightPixels;
-		public Color backgroundColor;
-
-		public TileSet tileset;
-		public List<TileLayer> tileLayers = new List<TileLayer>();
-
-		public void Load(string filePath)
+		TileMap(string filePath)
 		{
+			tileMap = new Tiled.TiledMap(filePath);
 		}
+
+		public Tiled.TiledMap tileMap;
 	}
 }
