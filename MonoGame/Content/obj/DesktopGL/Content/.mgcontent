@@ -4,7 +4,7 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/MASTER/Source/Repos/SteelHailstorm/MonoGame/Content/Arial.spritefont</File>
+    <File>C:/Users/DELL/source/repos/SteelHailstorm/MonoGame/Content/Arial.spritefont</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />

@@ -16,7 +16,7 @@ namespace HelloMonoGame
             Content.RootDirectory = "Content";
             IsMouseVisible = true;
         }
-
+		
         protected override void LoadContent()
         {
             _spriteBatch = new SpriteBatch(GraphicsDevice);
